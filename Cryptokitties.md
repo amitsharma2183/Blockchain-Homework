@@ -21,13 +21,70 @@ Shortly after launch, there were concerns that CryptoKitties was crowding out mo
 
 According to some estimates, the game had 1.5 million users who were responsible for $40 million worth of transactions on its platform. Individual cryptokitties have sold for more than $300,000 a piece, some say. As of this writing, the average sale price for a cryptokitty was $65.76.
 
-## CryptoKitties & Blockchain
+## Highlights of CryptoKitties Rise
 
 * Based on the Ethereum blockchain technology, Ether is the only supported currency in this game. However, unlike Bitcoin, the Ethereum blockchain allows for smart contracts, or the ability to embed additional information along with the transaction. This allows ownership of these virtual cats to be transferred using the Ethereum blockchain.
 
 * Shortly after the release of Cryptokitties, the backlog on the Ethereum blockchain
 grew significantly and Cryptokitties has been blamed for a slowdown in the blockchain. 
 
+![impact](Images/impact.jpg)
+
 * According to ETH Gas Station, the CryptoKitties game accounts for over 10% of network traffic on Ethereum. As traffic increases, transactions become more expensive to execute quickly.
 
 * CryptoKitties lets players buy and breed "crypto-pets" on Ethereum's underlying blockchain network. CryptoKitties was a "key step" to making blockchains more accessible.
+
+## Change brought by CryptoKitties
+### Blockchain solves art industry problems
+* Creates provable scarcity: limited editions and one-of-a-kind digital pieces are now possible.
+* Verifies true ownership: ensuring value for collectors and patrons.
+* Reduces fraud: with a permanent record that tracks provenance and authenticity, it combats forgers.
+* Creates an ethical way to pay artists: with transfers of ownership recorded immutably, an artist gets paid every time their work changes hands.
+
+### Digital art goes beyond the digital frame
+* Bring your Kitties into other games and experiences created by community developers.
+* Make them the stars of a detective show, or turn them into playing cards and do battle.
+
+### Shape the future
+CryptoKitties showcases the future potential of digital assets. If you own a CryptoKitty, you’re a stakeholder helping to shape the future of digital cats and blockchain technology alike, fostering comradery, creating new experiences, and coordinating to discover the latest Fancy Cat. You can use your Kitties to support turtle conservation, help fund a charity bridging art and the blockchain, or even auction them off and donate the money to charity.
+
+### Blockchain solves art industry problems
+* Creates provable scarcity: limited editions and one-of-a-kind digital pieces are now possible.
+* Verifies true ownership: ensuring value for collectors and patrons.
+* Reduces fraud: with a permanent record that tracks provenance and authenticity, it combats forgers.
+* Creates an ethical way to pay artists: with transfers of ownership recorded immutably, an artist gets paid every time their work changes hands.
+
+## Conclusion
+* CryptoKitties are one of **the most accessible** and delight-driven ways to experience blockchain technology. They’re **consumer friendly**, but **industry-insider approved**.
+* They’re also a relatively **new use for blockchain technology**.
+* Cryptocurrencies like **Bitcoin** were the **only example of blockchain technology** for over seven years, **until new projects like CryptoKitties arose**.
+* CryptoKitties helped **popularize and prove the value of a new class of digital assets**.
+* These digital assets, also known as **cryptocollectibles or NFTs (non-fungible tokens)**, are **gaining traction**.
+
+This new kind of digital asset is exciting, but it can be tough to articulate exactly why. It’s like an experience, a piece of art, or your beloved pet — hard to understand why it matters if your audience doesn’t have the same personal, cultural, or yes, monetary connection as you. 
+
+One thing is clear, CryptoKitties brought the change in the industry and proved that Technology can be just like your imagination i.e. unlimited and unique.
+
+## References
+
+* https://www.cryptokitties.co/
+
+* https://en.wikipedia.org/wiki/CryptoKitties
+
+* https://digitalcommons.bryant.edu/cgi/viewcontent.cgi?article=1003&context=cis-conf-proceedings#page=204
+
+* https://www.bbc.com/news/technology-42237162
+
+* https://medium.com/cryptokitties/what-the-heck-is-a-cryptokitty-4e14752e58c
+
+* https://www.guarana-technologies.com/tech-trends/blockchain-startups/
+
+* https://fortune.com/2018/06/18/cryptokitties/
+
+* https://fortune.com/2018/11/01/cryptokitties-samsung-google-venrock/
+
+* https://blockgeeks.com/guides/cryptokitties/
+
+* https://techcrunch.com/2017/12/03/people-have-spent-over-1m-buying-virtual-cats-on-the-ethereum-blockchain/
+
+* https://www.bitdegree.org/crypto/tutorials/cryptokitties
