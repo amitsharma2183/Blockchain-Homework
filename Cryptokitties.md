@@ -1,14 +1,12 @@
 # CryptoKitties
 
-![logo](Images/cryptokitty_logo.gif)
+![kities](Images/kitties.png)
 
 CryptoKitties is a blockchain game on Ethereum developed by Axiom Zen that allows players to purchase, collect, breed and sell virtual cats. It is one of the earliest attempts to deploy blockchain technology for recreation and leisure. The game's popularity in December 2017 congested the Ethereum network, causing it to reach an all-time high in number of transactions and slowing it down significantly. 
 
 ### Background
 
 CryptoKitties operates on Ethereum's underlying blockchain network, as a non-fungible token (NFT), unique to each CryptoKitty. Each CryptoKitty is unique and owned by the user, validated through the blockchain, and its value can appreciate or depreciate based on the market. CryptoKitties cannot be replicated and cannot be transferred without the user's permission even by the game developers. Users can interact with their CryptoKitties, having the ability to buy, sell, and sire (breed) them. However, the CryptoKitty art is not on the blockchain and is instead owned by Axiom Zen. The company released some of the art under a new 'Nifty' license that lets players use the image of their CryptoKitty in a limited way.
-
-![kities](Images/kitties.png)
 
 ### Technology
 
